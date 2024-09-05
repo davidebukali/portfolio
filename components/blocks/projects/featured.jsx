@@ -42,7 +42,8 @@ export default function FeaturedProject({ content }, index) {
 						<h3 className="highlight">{project}</h3><span className={css.privateOr}><i className="devicon-github-plain"></i>{repo}</span>	
 					</div>
 					<div className={css.description}>
-						<p><strong>{descriptionTitle}</strong> {description}</p>
+						<p><strong>{descriptionTitle}</strong></p>
+						<p>{description}</p>
 					</div>
 					<div className={css.stackContainer}>
 						<Badges list={stack} block="stack" fullContainer={false} color={false} />
@@ -51,21 +52,6 @@ export default function FeaturedProject({ content }, index) {
 						<Icon icon={[ 'fad', 'arrow-right-to-bracket' ]} />
 					</m.div>
 				</div>
-			</div>
-
-			<div className={css.imageContainer}>
-				<span className={`${css.imageAnimationContainer}`}>
-					{ images.map( ({key, url, hover, h, w }, index) => {
-						hover = ( hover === 'left' ) ? hoverLeft : hoverRight
-						return (
-							<m.div key={`${index}-${key}`} variants={item}>
-								<m.div variants={hover}>
-									<Image src={url} alt="x" height={h} width={w} />
-								</m.div>
-							</m.div>
-						)}
-					) }
-				</span>
 			</div>
 		</m.section>
 	)
