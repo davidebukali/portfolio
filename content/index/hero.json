@@ -1,7 +1,7 @@
 {
 	"intro": {
 		"start": "const David = ( developer, passion ) =>",
-		"end": "Hello, my name is",
+		"end": "Hi there :) I am ",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
@@ -12,7 +12,7 @@
 
 	"header": {
 		"name": "David Ebukali.",
-		"usp": "I build pleasant digital experiences."
+		"usp": "I build delightful digital experiences."
 	},
 
 	"paragraph": "I am a developer with a passion for solving Africa's problems using software.",
