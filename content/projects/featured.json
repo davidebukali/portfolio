@@ -4,7 +4,7 @@
 		"url": "https://ai-powered-nextjs-app.vercel.app/",
 		"repo": "Public",
 		"descriptionTitle": "Journal writing application",
-		"description": "Use AI to analyze the sentiment and feelings behind your daily journal entries.",
+		"description": "Use AI to analyze the sentiment behind your daily journal entries. Perform vector search on all your entries.",
 		"imageOptions": [
 		],
 		"images": [
@@ -21,11 +21,11 @@
 		]
 	},
 	{
-		"project": "andrewnelson.net",
-		"url": "https://github.com/atlamors/portfolio",
+		"project": "Gift App",
+		"url": "https://github.com/davidebukali/giftapp",
 		"repo": "Public",
-		"descriptionTitle": "An open source portfolio",
-		"description": "built on Next.js and React. A fast and agile MERN stack single page application.",
+		"descriptionTitle": "React Native Mobile App",
+		"description": "Reminds users about important events like anniversaries and birthdays. Also connects you to service providers to deliver gifts.",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
@@ -33,14 +33,13 @@
 			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
 		],
 		"stack": [
-			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "NodeJS", 		"type": "devicon" },
 			{ "key": "react", 		"name": "React", 		"type": "devicon" },
-			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
-			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
+			{ "key": "reactnavigation", 		"name": "React Navigation", 		"type": "devicon" },
+			{ "key": "postgresql", 	"name": "PostgreSQL", 		"type": "devicon" },
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
 			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
 			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
 		]
 	}
