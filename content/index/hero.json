@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"start": "const David = ( developer, passion ) =>",
+		"start": "const { developer, tennis, FC24 } = David",
 		"end": "Hi there :) I am ",
 		"speed": 60,
 		"deletionSpeed": 80,
@@ -15,7 +15,7 @@
 		"usp": "I build delightful digital experiences."
 	},
 
-	"paragraph": "I am a developer with a passion for solving Africa's problems using software.",
+	"paragraph": "I am a developer with a passion for solving problems using software.",
 
 	"buttons": {
 		"primary": {
