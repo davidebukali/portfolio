@@ -42,5 +42,25 @@
 			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
 		]
+	},
+	{
+		"project": "Kachloan",
+		"url": "http://45.76.129.177/",
+		"repo": "Private",
+		"descriptionTitle": "Loan Management System",
+		"description": "SAAS product for loan businesses to manage their portfolios. ",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+		],
+		"stack": [
+			{ "key": "laravel", 		"name": "Laravel", 		"type": "devicon" },
+			{ "key": "javascript", 		"name": "Javascript", 		"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
 	}
 ]
