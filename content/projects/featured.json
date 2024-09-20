@@ -4,7 +4,7 @@
 		"url": "https://ai-powered-nextjs-app.vercel.app/",
 		"repo": "Public",
 		"descriptionTitle": "Journal writing application",
-		"description": "Use AI to analyze the sentiment behind your daily journal entries. Perform vector search on all your entries.",
+		"description": "Use AI to analyze the sentiment behind your daily journal entries. Perform Vector search and Retrieval Augmented Generation on all your journal entries.",
 		"imageOptions": [
 		],
 		"images": [
