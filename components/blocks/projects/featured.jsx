@@ -35,7 +35,6 @@ export default function FeaturedProject({ content }, index) {
 			initial={[ "rest", "hidden" ]}
 			whileHover="hover"
 			animate={controls} >
-			
 			<div className={css.details}>
 				<div className={css.projectHeader}>
 					<div className={css.header}>
@@ -48,9 +47,11 @@ export default function FeaturedProject({ content }, index) {
 					<div className={css.stackContainer}>
 						<Badges list={stack} block="stack" fullContainer={false} color={false} />
 					</div>
+					<a href={url} target="_blank" rel="noopener noreferrer">
 					<m.div variants={''} className={css.viewProject}>
 						<Icon icon={[ 'fad', 'arrow-right-to-bracket' ]} />
 					</m.div>
+					</a>
 				</div>
 			</div>
 		</m.section>
