@@ -1,7 +1,7 @@
 {
 	"intro": {
-		"start": "const { developer, tennis, FC24 } = David",
-		"end": "Hi there :) I am ",
+		"start": "Hi there :) I am ",
+		"end": "const { developer, tennis, FC24 } = David",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
