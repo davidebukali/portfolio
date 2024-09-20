@@ -93,6 +93,7 @@ function IconModule({ iconKey, iconType, color }) {
 		case 'devicon':
 			console.log(iconKey);
 			let ext = (iconKey == 'prisma' || iconKey == 'reactnavigation' || iconKey == 'laravel') ? '-original' : '-plain'
+			if(iconKey == 'amazonwebservices') { ext = '-plain-wordmark' }
 			return ( <i className={`devicon-${iconKey}${ext} ${colored}`} /> )
 		default:
 			return ( '' )
