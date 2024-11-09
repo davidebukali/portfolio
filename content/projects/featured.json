@@ -1,5 +1,26 @@
 [
 	{
+		"project": "Akim",
+		"url": "https://akimdirectory.netlify.app/",
+		"repo": "Private",
+		"descriptionTitle": "Business Directory using AI",
+		"description": "Find businesses in Uganda using semantic search and Google's Gemini AI.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+		],
+		"stack": [
+			{ "key": "nextjs", 		"name": "NextJS", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },			
+			{ "key": "supabase", 	"name": "Supabase", 	"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	},
+	{
 		"project": "Mood",
 		"url": "https://ai-powered-nextjs-app.vercel.app/",
 		"repo": "Public",
@@ -21,31 +42,8 @@
 		]
 	},
 	{
-		"project": "Gift App",
-		"url": "https://github.com/davidebukali/giftapp",
-		"repo": "Public",
-		"descriptionTitle": "React Native Mobile App",
-		"description": "Reminds users about important events like anniversaries and birthdays. Also connects you to service providers to deliver gifts.",
-		"imageOptions": [
-			{ "key": "size", 		"value": "large" }
-		],
-		"images": [
-			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
-		],
-		"stack": [
-			{ "key": "nodejs", 		"name": "NodeJS", 		"type": "devicon" },
-			{ "key": "react", 		"name": "React", 		"type": "devicon" },
-			{ "key": "reactnavigation", 		"name": "React Navigation", 		"type": "devicon" },
-			{ "key": "postgresql", 	"name": "PostgreSQL", 		"type": "devicon" },
-			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
-			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
-		]
-	},
-	{
 		"project": "Kachloan",
-		"url": "http://45.76.129.177/",
+		"url": "https://kachloan.com",
 		"repo": "Private",
 		"descriptionTitle": "Loan Management System",
 		"description": "SAAS product for loan businesses to manage their portfolios. ",
