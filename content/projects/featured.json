@@ -3,8 +3,8 @@
 		"project": "Akim",
 		"url": "https://akimdirectory.netlify.app/",
 		"repo": "Private",
-		"descriptionTitle": "Business Directory using AI",
-		"description": "Find businesses in Uganda using semantic search and Google's Gemini AI.",
+		"descriptionTitle": "Business Directory",
+		"description": "Find businesses in Uganda with an AI chat bot called Akim that understands 5 local languages. Built with Langraph JS and has short term memory of your current conversation. Uses agents to perform query rewritting, validation to ensure only business questions are answered and for internet search on unknown topics.",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
@@ -24,8 +24,8 @@
 		"project": "Mood",
 		"url": "https://ai-powered-nextjs-app.vercel.app/",
 		"repo": "Public",
-		"descriptionTitle": "Journal writing application",
-		"description": "Use AI to analyze the sentiment behind your daily journal entries. Perform Vector search and Retrieval Augmented Generation on all your journal entries.",
+		"descriptionTitle": "Online Journal",
+		"description": "Use AI to analyze the sentiment behind your daily journal entries. Run vector search on all your journal entries and view mood trends over time. Use Gemini AI to answer questions about your writing.",
 		"imageOptions": [
 		],
 		"images": [
@@ -46,7 +46,7 @@
 		"url": "https://kachloan.com",
 		"repo": "Private",
 		"descriptionTitle": "Loan Management System",
-		"description": "SAAS product for loan businesses to manage their portfolios. ",
+		"description": "SAAS product for loan businesses to manage their portfolios. Does loan amortisation and creates financial reports for daily and long term transactions.",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
