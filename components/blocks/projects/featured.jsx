@@ -41,7 +41,7 @@ export default function FeaturedProject({ content }, index) {
 						<h3 className="highlight">{project}</h3><span className={css.privateOr}><i className="devicon-github-plain"></i>{repo}</span>	
 					</div>
 					<div className={css.description}>
-						<p><strong>{descriptionTitle}</strong></p>
+						<h3><strong>{descriptionTitle}</strong></h3>
 						<p>{description}</p>
 					</div>
 					<div className={css.stackContainer}>
