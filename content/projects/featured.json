@@ -1,7 +1,7 @@
 [
 	{
 		"project": "Akim",
-		"url": "https://akimdirectory.netlify.app/",
+		"url": "https://akimdirectory.vercel.app",
 		"repo": "Private",
 		"descriptionTitle": "Business Directory",
 		"description": "Find businesses in Uganda with an AI chat bot that understands 5 local languages. Built with Langraph JS and has short term memory of your current conversation. Uses agents to perform query rewritting, validation to ensure only business questions are answered and for internet search on unknown topics.",
