@@ -43,7 +43,7 @@ export default function About() {
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="I have developed a web application to visualize Uganda's National Statistics on agriculture, poverty, and population, empowering leaders in government and non-government institutions to make data-driven decisions. I contributed to a data processing tool that utilized open datasets, delivering timely insights for data analysts to support their reports with evidence. Recently, I completed a Fullstack course that included AI concepts and as a result I caught the bug around this technology. I am now learning about the different usecases for Generative AI."
+							copy="When am not writing code, I enjoy video games like FC24 and Call of Duty. You can also catch me jogging on the Kyanja Ring Road or playing tennis. Recently, I completed a Full - Stack course that included AI concepts and as a result I caught the bug around this technology. I am now building AI agents for research and customer care."
 						/>
 					</div>
 				</section>	
